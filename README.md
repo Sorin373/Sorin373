@@ -1,6 +1,6 @@
 <font size = "6">
 <h1 align = "center">
-    Hello, my name is Sorin and I am a student at George Cosbuc Bilingual National College, in Bucharest
+    Hello, my name is Sorin and I am a student at George Cosbuc National Bilingual College, in Bucharest
 </font> </h1>
 <br></br>
 <font>
