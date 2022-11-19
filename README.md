@@ -1,7 +1,6 @@
-[!MasterHead]()
 <font size = "6">
 <h1 align = "center">
-    Hello, my name is Sorin and I am a student at George Cosbuc National Bilingual College, in Bucharest
+    Hello, my name is Sorin Tudose and I am a student at George Cosbuc National Bilingual College, in Bucharest
 </font> </h1>
 <font>
 <h2 align = "left">
@@ -20,9 +19,8 @@
 
 <h1 align="left">Languages and Tools I am acquainted with</h1>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80"/> </a> </p>
-<br></br>
-</font>
 
+</font>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorin373&show_icons=true&locale=en&layout=compact" width = "1000" alt="sorin373" />
 <br></br>
