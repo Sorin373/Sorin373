@@ -1,5 +1,5 @@
 <font size = "6">
-<h1 align = "center">
+<h1 align = "left">
     Hello, my name is Sorin Tudose and I am a student at George Cosbuc National Bilingual College, in Bucharest
 </font> </h1>
 <font>
