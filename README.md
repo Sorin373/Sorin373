@@ -24,7 +24,4 @@
 </font>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorin373&show_icons=true&locale=en&layout=compact" alt="sorin373" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sorin373&show_icons=true&locale=en" alt="sorin373" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sorin373&" alt="sorin373" /></p>
