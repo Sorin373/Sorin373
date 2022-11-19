@@ -2,7 +2,6 @@
 <h1 align = "center">
     Hello, my name is Sorin and I am a student at George Cosbuc National Bilingual College, in Bucharest
 </font> </h1>
-<br></br>
 <font>
 <h2 align = "left">
 
